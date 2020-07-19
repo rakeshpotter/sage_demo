@@ -1,0 +1,10 @@
+footer {
+    background-color: #555;
+    color: white;
+    padding: 15px;
+}
+.deleted{
+    text-decoration: line-through;
+    text-decoration-color: red;
+    text-decoration-style: double;
+}
